@@ -3,7 +3,7 @@
     <head>
         <meta charSet="utf-8"/>
         <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" data-domain-script="018e37fb-7a80-717a-a1d2-ba0e159ee446"></script>
-        <script type="text/javascript">
+        <script type="text/cript">
             function OptanonWrapper() {}
         </script>
         <meta http-equiv="x-ua-compatible" content="ie=edge"/>
